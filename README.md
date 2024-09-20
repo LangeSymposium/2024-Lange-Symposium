@@ -1,6 +1,6 @@
 # 2024 Lange Symposium on Computational & Statistical Genomics
 
-<span style="color:red">**For information on the next Lange Symposium, [click here](https://langesymposium.github.io/Lange-Symposium/)**</span>
+<span style="color:red">For information on the next Lange Symposium, [click here](https://langesymposium.github.io/Lange-Symposium/)</span>
 
 ## January 26, 2024 at UCLA
 

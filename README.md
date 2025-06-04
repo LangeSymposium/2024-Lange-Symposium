@@ -31,7 +31,6 @@ To read about the **[Ken Lange Symposium Endowment, click here](https://compmed
 <span style="color:red">*Application closed*</span>
 
 Our travel award program solicits applications from around the country from scientists and trainees who would be otherwise unable to attend. You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of students who would benefit from access to this material, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. Travel awards cover travel within the U.S., meals, and lodging.
-Travel awards cover travel within the U.S., meals, and lodging.
 
 ### Contact
 For more information, including information on applying for a travel award, contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium)

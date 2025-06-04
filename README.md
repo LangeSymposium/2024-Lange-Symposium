@@ -27,11 +27,10 @@ To read about the **[Ken Lange Symposium Endowment, click here](https://compmed
  - Matthew Stephens, University of Chicago
    - [Empirical Bayes matrix factorization, and genomic applications](https://www.youtube.com/watch?v=WI8RG1G306Q&list=PL9erWHMFMErn3bkOGR9ymiIygn1i3_roi&index=4)
 
-### Diversity Travel Awards
+### Travel Awards
 <span style="color:red">*Application closed*</span>
 
-Each year we offer travel awards for attendees who will further the goal of increasing the diversity of the biomedical workforce. This includes persons from historically underrepresented groups (i.e., racial and ethnic minorities, first-generation college students, and persons with disabilities). You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of underrepresented minority students, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students.
-
+Our travel award program solicits applications from around the country from scientists and trainees who would be otherwise unable to attend. You may also apply if you are faculty from an advanced degree granting institution with a high enrollment of students who would benefit from access to this material, who would be interested in partnering with UCLA faculty to make symposium and workshop material available to their students. Travel awards cover travel within the U.S., meals, and lodging.
 Travel awards cover travel within the U.S., meals, and lodging.
 
 ### Contact

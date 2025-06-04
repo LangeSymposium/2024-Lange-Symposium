@@ -37,7 +37,7 @@ Travel awards cover travel within the U.S., meals, and lodging.
 For more information, including information on applying for a travel award, contact [Jeanette Papp](mailto:jcpapp@ucla.edu?subject=Lange_Symposium)
 
 ### Future Events
-The [2025 Lange Symposium on Computational Statistics](https://langesymposium.github.io/Lange-Symposium/) will be held at UCLA on Junuary 27, 2025.
+For information on the next Lange Symposium, [click here](https://langesymposium.github.io/Lange-Symposium/)
 
 ### Past Events
 

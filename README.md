@@ -13,7 +13,7 @@ The Fourth Annual Lange Symposium was held January 26. 2024. This year's topic w
 To read about the **[Ken Lange Symposium Endowment, click here](https://compmed.ucla.edu/ken-lange-symposium-endowment)**. To make a gift, [click here](https://giving.ucla.edu/Campaign/Donate.aspx?SiteNum=3167&fund=64621O&code=M-19409).
 
 ### Speakers
-*Recordings of the talks can be viewed by clicking on the talk titles*
+*Recordings of the talks can be viewed on the [UCLA Computational Medicine Channel](https://www.youtube.com/@computationalmedicineucla/playlists) or by clicking on the talk titles*
  - Eric Chi, Rice University
    - Sampling meets optimization: Proximal MCMC and some applications
  - Susan Holmes, Stanford University
